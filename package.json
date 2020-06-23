@@ -1,0 +1,22 @@
+{
+  "name": "facerecoapp",
+  "version": "1.0.0",
+  "description": "This app will is from the Udemy course and it should recognise the faces.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TobiStillness/FaceRecoApp.git"
+  },
+  "author": "Tobiasz Kaduk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TobiStillness/FaceRecoApp/issues"
+  },
+  "homepage": "https://github.com/TobiStillness/FaceRecoApp#readme",
+  "dependencies": {
+    "particles.js": "^2.0.0"
+  }
+}
